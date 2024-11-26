@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=tomcarter23)](https://github.com/tomcarter23/github-contribution-stats/)
+
 <!--
 **tomcarter23/tomcarter23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
